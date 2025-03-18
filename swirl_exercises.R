@@ -1,0 +1,6 @@
+#install.packages("swirl")
+#packageVersion("swirl")
+rm(list=ls())
+library(swirl)
+#install_from_swirl("R Programming")
+swirl()
